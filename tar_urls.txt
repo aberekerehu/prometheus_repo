@@ -1,0 +1,5 @@
+https://github.com/prometheus/prometheus/releases/download/v2.49.0-rc.2/prometheus-2.49.0-rc.2.linux-arm64.tar.gz
+https://github.com/prometheus/alertmanager/releases/download/v0.26.0/alertmanager-0.26.0.linux-arm64.tar.gz
+https://github.com/prometheus/blackbox_exporter/releases/download/v0.24.0/blackbox_exporter-0.24.0.linux-arm64.tar.gz
+https://github.com/prometheus/node_exporter/releases/download/v1.7.0/node_exporter-1.7.0.linux-arm64.tar.gz
+https://github.com/prometheus/pushgateway/releases/download/v1.6.2/pushgateway-1.6.2.linux-arm64.tar.gz

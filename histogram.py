@@ -19,7 +19,7 @@ class HandleRequests(http.server.BaseHTTPRequestHandler):
         self.wfile.write(bytes("<html><head><title>First Application</title></head><body style='color: #333; margin-top: 30px;'><center><h2>Welcome to our first Prometheus-Python application.</center></h2></body></html>", "utf-8"))
         self.wfile.close()
         #time_taken = time.time() - start_time
-        REQUEST_RESPOND_TIME.observe(time_taken)
+        #REQUEST_RESPOND_TIME.observe(time_taken)
 
 
 if __name__ == "__main__":
